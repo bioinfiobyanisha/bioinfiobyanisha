@@ -1,5 +1,10 @@
-<h1 align="center">Hi, I'm Anisha Vishwakarma 🧬</h1>
-<h3 align="center">Bioinformatics · Computational Genomics · Transcriptomics</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2A9D8F,50:274156,100:E76F51&height=200&section=header&text=Anisha%20Vishwakarma&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Bioinformatics%20%7C%20Computational%20Genomics%20%7C%20Transcriptomics&descAlignY=58&descSize=18"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=20&duration=2500&pause=800&color=2A9D8F&center=true&vCenter=true&width=650&lines=%3E+parsing+genomes...;%3E+running+RNA-Seq+pipeline...;%3E+modeling+protein+structures...;%3E+seeking+PhD+%2F+research+opportunities..."/>
+</p>
 
 <p align="center">
   <a href="https://bioinfiobyanisha.github.io"><img src="https://img.shields.io/badge/Portfolio-2A9D8F?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
@@ -7,57 +12,106 @@
   <a href="mailto:anishabioinformatics@gmail.com"><img src="https://img.shields.io/badge/Email-E76F51?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bioinfiobyanisha&style=flat-square&color=2A9D8F&label=profile+views"/>
+</p>
+
 ---
 
 ### `>about`
 
+```
+>anisha_vishwakarma | bioinformatics_researcher
+Msc Biotechnology graduate — genomics, transcriptomics, structural biology
+```
+
 - 🎓 M.Sc. Biotechnology, Patna Women's College, Patna University
-- 🔬 Project Associate-I at **BRIC–THSTI**, Faridabad — building an in-silico platform for high-throughput genomics, transcriptomics & proteomics data
-- 🧫 Previously: Bioinformatics Research Intern at **BRIC–NIAB**, Hyderabad (comparative genomics, genome assembly, RNA-Seq) and **ICMR–RMRIMS**, Patna (homology modeling, structural bioinformatics)
-- 🌱 Currently exploring AI-driven approaches to genomic & transcriptomic data
+- 🔬 Project Associate-I at **BRIC–THSTI**, Faridabad — in-silico platform for high-throughput genomics, transcriptomics & proteomics data
+- 🧫 Previously: Bioinformatics Intern at **BRIC–NIAB**, Hyderabad, and **ICMR–RMRIMS**, Patna
+- 🌱 Exploring AI-driven approaches to genomic & transcriptomic data
 - 🎯 Actively seeking **PhD & research opportunities** in computational biology
 
 ---
 
 ### `>skills`
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,r,linux,git,github,html,js,mysql&theme=dark"/>
+</p>
+
 **Bioinformatics**
 ![RNA-Seq](https://img.shields.io/badge/-RNA--Seq-2A9D8F?style=flat-square)
 ![Genome Annotation](https://img.shields.io/badge/-Genome%20Annotation-2A9D8F?style=flat-square)
 ![Comparative Genomics](https://img.shields.io/badge/-Comparative%20Genomics-2A9D8F?style=flat-square)
 ![BLAST](https://img.shields.io/badge/-BLAST-2A9D8F?style=flat-square)
+![HISAT2](https://img.shields.io/badge/-HISAT2-2A9D8F?style=flat-square)
+![StringTie](https://img.shields.io/badge/-StringTie-2A9D8F?style=flat-square)
+![SAMtools](https://img.shields.io/badge/-SAMtools-2A9D8F?style=flat-square)
+![Minimap2](https://img.shields.io/badge/-Minimap2-2A9D8F?style=flat-square)
 
 **Structural Biology**
 ![Homology Modeling](https://img.shields.io/badge/-Homology%20Modeling-E9B44C?style=flat-square)
 ![SWISS--MODEL](https://img.shields.io/badge/-SWISS--MODEL-E9B44C?style=flat-square)
 ![PyMOL](https://img.shields.io/badge/-PyMOL-E9B44C?style=flat-square)
 
-**Programming & Tools**
-![Python](https://img.shields.io/badge/-Python-2B4257?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-2B4257?style=flat-square&logo=r&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-2B4257?style=flat-square&logo=linux&logoColor=white)
-![HISAT2](https://img.shields.io/badge/-HISAT2-E76F51?style=flat-square)
-![StringTie](https://img.shields.io/badge/-StringTie-E76F51?style=flat-square)
-![SAMtools](https://img.shields.io/badge/-SAMtools-E76F51?style=flat-square)
-![Minimap2](https://img.shields.io/badge/-Minimap2-E76F51?style=flat-square)
-
 ---
 
 ### `>projects`
 
-- 🧬 **[Multi-Species Genome Annotation & RNA-Seq Workflow](https://github.com/bioinfiobyanisha/multi-species-genome-annotation)** — reproducible pipeline for QC, genome prep, annotation & downstream analysis
-- 🐃 **Y-Chromosome Scaffold Identification in Buffalo Genomes** — reference-guided mapping using Minimap2
-- 🦠 **Homology Modeling of Amastin Protein (*Leishmania donovani*)** — structure prediction & active-site analysis via SWISS-MODEL, PyMOL
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🧬 Multi-Species Genome Annotation & RNA-Seq Workflow**
+Reproducible pipeline for QC, genome prep, annotation & downstream analysis.
+`Python` `RNA-Seq` `Genome Annotation`
+
+</td>
+<td width="50%" valign="top">
+
+**🐃 Y-Chromosome Scaffold Identification (Buffalo Genomes)**
+Reference-guided mapping of buffalo scaffolds to swamp buffalo Y-chromosome.
+`Minimap2` `Comparative Genomics`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🦠 Homology Modeling — Amastin Protein**
+Structure prediction & active-site analysis in *Leishmania donovani*.
+`SWISS-MODEL` `PyMOL`
+
+</td>
+<td width="50%" valign="top">
+
+**📄 Conference Paper — lncRNA & Host Immunity**
+Transcriptome profiling of lncRNA-mediated regulation during viral infection.
+`Transcriptomics` `RNA Biology`
+
+</td>
+</tr>
+</table>
 
 ---
 
-### `>stats`
+### `>github_stats`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bioinfiobyanisha&show_icons=true&theme=default&hide_border=true&title_color=2A9D8F&icon_color=E76F51&text_color=132420"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bioinfiobyanisha&layout=compact&hide_border=true&title_color=2A9D8F&text_color=132420"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bioinfiobyanisha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bioinfiobyanisha&layout=compact&theme=tokyonight&hide_border=true" width="30%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bioinfiobyanisha&theme=tokyonight&hide_border=true" width="60%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bioinfiobyanisha&theme=algolia&no-frame=true&margin-w=8&row=1"/>
 </p>
 
 ---
 
 <p align="center"><i>chr1:1–248,956,422 &nbsp;|&nbsp; assembly: career_v1 &nbsp;|&nbsp; build: 2026</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E76F51,50:274156,100:2A9D8F&height=100&section=footer"/>
