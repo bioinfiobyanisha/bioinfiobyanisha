@@ -95,23 +95,6 @@ Transcriptome profiling of lncRNA-mediated regulation during viral infection.
 
 ---
 
-### `>github_stats`
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bioinfiobyanisha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bioinfiobyanisha&layout=compact&theme=tokyonight&hide_border=true" width="30%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bioinfiobyanisha&theme=tokyonight&hide_border=true" width="60%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bioinfiobyanisha&theme=algolia&no-frame=true&margin-w=8&row=1"/>
-</p>
-
----
-
 <p align="center"><i>chr1:1–248,956,422 &nbsp;|&nbsp; assembly: career_v1 &nbsp;|&nbsp; build: 2026</i></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E76F51,50:274156,100:2A9D8F&height=100&section=footer"/>
