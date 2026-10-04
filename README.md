@@ -20,6 +20,9 @@
 
 <br>
 
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br><br>
+
 - 🔭 I'm currently working as **Project Associate-I at THSTI, Faridabad** (omics data analysis platform) and open to **PhD & research opportunities**
 
 - 🌱 I'm currently learning **DIA proteomics, PTM / phosphorylation analysis** and AI for biological data
