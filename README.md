@@ -1,61 +1,68 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2A9D8F,50:274156,100:E76F51&height=200&section=header&text=Anisha%20Vishwakarma&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Bioinformatics%20%7C%20Genomics%20%7C%20Transcriptomics%20%7C%20Proteomics&descAlignY=58&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2A9D8F,50:274156,100:E76F51&height=180&section=header&text=Anisha%20Vishwakarma&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+</p>
+
+<h1 align="center">Hi 👋, I'm Anisha Vishwakarma</h1>
+<h3 align="center">A passionate Bioinformatics researcher from India 🇮🇳</h3>
+<p align="center">I am fascinated by how reading genomes, transcriptomes and proteomes can explain life at the molecular level 🧬. Starting from microbiology and biotechnology, I moved into computational biology and now build pipelines that turn raw omics data into biological insight. I also love exploring new tools and AI-driven approaches 💻 to analyse biological data 🛠️</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bioinfiobyanisha&label=Profile%20views&color=2A9D8F&style=flat" alt="Anisha Vishwakarma"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=20&duration=2500&pause=800&color=2A9D8F&center=true&vCenter=true&width=700&lines=%3E+parsing+genomes...;%3E+running+RNA-Seq+pipeline...;%3E+quantifying+proteins+with+DIA-NN...;%3E+mapping+phosphorylation+sites...;%3E+seeking+PhD+%2F+research+opportunities..."/>
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=18&duration=2500&pause=800&color=2A9D8F&center=true&vCenter=true&width=650&lines=%3E+parsing+genomes...;%3E+running+RNA-Seq+pipelines...;%3E+quantifying+proteins+with+DIA-NN...;%3E+mapping+phosphorylation+sites..."/>
 </p>
 
-<p align="center">
-  <a href="https://bioinfiobyanisha.github.io"><img src="https://img.shields.io/badge/Portfolio-2A9D8F?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/anisha-v-bioinfo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:anishabioinformatics@gmail.com"><img src="https://img.shields.io/badge/Email-E76F51?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,r,linux,bash,git,github,html,js,mysql&theme=dark"/>
+</div>
+
+<br>
+
+- 🔭 I'm currently working as **Project Associate-I at THSTI, Faridabad** (omics data analysis platform) and open to **PhD & research opportunities**
+
+- 🌱 I'm currently learning **DIA proteomics, PTM / phosphorylation analysis** and AI for biological data
+
+- 👩‍💻 My portfolio is at [bioinfiobyanisha.github.io](https://bioinfiobyanisha.github.io)
+
+- 💬 Ask me about **RNA-Seq, genome annotation, comparative genomics, proteomics and homology modeling**
+
+- 📫 How to reach me **anishabioinformatics@gmail.com**
+
+- 📍 Open to relocate (**Delhi NCR**)
+
+- 🏅 **RNA Biology, Elite Certification** (NPTEL, IIT Madras, 87%)
+
+<br>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/anisha-v-bioinfo" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:anishabioinformatics@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-E76F51?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://bioinfiobyanisha.github.io" target="blank"><img src="https://img.shields.io/badge/Portfolio-2A9D8F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bioinfiobyanisha&style=flat-square&color=2A9D8F&label=profile+views"/>
+<br>
+
+<h3 align="left">Languages and Tools:</h3>
+
+- Programming & Linux
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,r,bash,linux,ubuntu,git,github,vscode" />
+  </a>
 </p>
 
----
-
-### `>about`
-
-```
->anisha_vishwakarma | bioinformatics_researcher
-M.Sc. Biotechnology — genomics, transcriptomics, proteomics, structural biology
-```
-
-- 🎓 M.Sc. Biotechnology, Patna Women's College, Patna University (2024–2026)
-- 🔬 **Project Associate-I** at **BRIC–THSTI**, Faridabad — building an in-silico platform for high-throughput genomics, transcriptomics & proteomics data (human / plant / pathogens)
-- 🧫 Previously: Dissertation Intern at **BRIC–NIAB**, Hyderabad, and Summer Intern at **ICMR–RMRIMS**, Patna
-- 🧪 Currently working on: **DIA-based LC-MS/MS proteomics** and **phosphorylation PTM analysis**
-- 🌱 Exploring AI-driven approaches to genomic, transcriptomic & proteomic data
-- 📍 Open to relocate (Delhi NCR)
-- 🎯 Actively seeking **PhD & research opportunities** in computational biology
-
----
-
-### `>experience`
-
-| When | Role | PI / Supervisor | Focus |
-|---|---|---|---|
-| Aug 2026 – Present | **Project Associate-I**, THSTI Faridabad | Dr. Amit Kumar Yadav, Principal Scientist-II | DIA-NN proteomics, LC-MS/MS, phosphorylation PTM site prediction & motif analysis |
-| Dec 2025 – May 2026 | **Dissertation Research Intern**, NIAB Hyderabad | Dr. Shailesh Sharma, Scientist-E | Genome annotation, comparative genomics, RNA-Seq of indigenous livestock genomes |
-| Jul – Aug 2025 | **Summer Intern**, ICMR–RMRIMS Patna | Dr. Manas Ranjan Dikhit, Scientist-C | Homology modeling & active-site prediction of Amastin (*Leishmania donovani*) |
-
----
-
-### `>skills`
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,r,linux,git,github,html,js,mysql&theme=dark"/>
+- Web & Databases
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,js,mysql,mariadb,apache" />
+  </a>
 </p>
 
-**Bioinformatics**
-![RNA-Seq](https://img.shields.io/badge/-RNA--Seq-2A9D8F?style=flat-square)
-![Genome Annotation](https://img.shields.io/badge/-Genome%20Annotation-2A9D8F?style=flat-square)
-![Comparative Genomics](https://img.shields.io/badge/-Comparative%20Genomics-2A9D8F?style=flat-square)
-![BLAST](https://img.shields.io/badge/-BLAST-2A9D8F?style=flat-square)
+- Genomics & Transcriptomics
+
 ![FastQC](https://img.shields.io/badge/-FastQC-2A9D8F?style=flat-square)
 ![Fastp](https://img.shields.io/badge/-Fastp-2A9D8F?style=flat-square)
 ![HISAT2](https://img.shields.io/badge/-HISAT2-2A9D8F?style=flat-square)
@@ -63,95 +70,53 @@ M.Sc. Biotechnology — genomics, transcriptomics, proteomics, structural biolog
 ![SAMtools](https://img.shields.io/badge/-SAMtools-2A9D8F?style=flat-square)
 ![AGAT](https://img.shields.io/badge/-AGAT-2A9D8F?style=flat-square)
 ![Minimap2](https://img.shields.io/badge/-Minimap2-2A9D8F?style=flat-square)
+![BLAST](https://img.shields.io/badge/-BLAST-2A9D8F?style=flat-square)
 
-**Proteomics**
+- Proteomics
+
 ![DIA-NN](https://img.shields.io/badge/-DIA--NN-E76F51?style=flat-square)
 ![FragPipe](https://img.shields.io/badge/-FragPipe-E76F51?style=flat-square)
 ![LC-MS/MS](https://img.shields.io/badge/-LC--MS%2FMS-E76F51?style=flat-square)
-![PTM Analysis](https://img.shields.io/badge/-PTM%20Analysis-E76F51?style=flat-square)
-![Phosphorylation](https://img.shields.io/badge/-Phosphorylation-E76F51?style=flat-square)
+![Phosphorylation](https://img.shields.io/badge/-Phosphorylation%20PTM-E76F51?style=flat-square)
 ![Motif Analysis](https://img.shields.io/badge/-Motif%20Analysis-E76F51?style=flat-square)
 
-**Structural Biology**
-![Homology Modeling](https://img.shields.io/badge/-Homology%20Modeling-E9B44C?style=flat-square)
-![SWISS--MODEL](https://img.shields.io/badge/-SWISS--MODEL-E9B44C?style=flat-square)
+- Structural Biology
+
+![SWISS-MODEL](https://img.shields.io/badge/-SWISS--MODEL-E9B44C?style=flat-square)
 ![PyMOL](https://img.shields.io/badge/-PyMOL-E9B44C?style=flat-square)
+![Homology Modeling](https://img.shields.io/badge/-Homology%20Modeling-E9B44C?style=flat-square)
 ![Active Site Prediction](https://img.shields.io/badge/-Active%20Site%20Prediction-E9B44C?style=flat-square)
-![Molecular Docking](https://img.shields.io/badge/-Molecular%20Docking%20(basic)-E9B44C?style=flat-square)
 
-**Web & Databases**
-![HTML](https://img.shields.io/badge/-HTML-274156?style=flat-square)
-![JavaScript](https://img.shields.io/badge/-JavaScript-274156?style=flat-square)
-![SQL](https://img.shields.io/badge/-SQL-274156?style=flat-square)
-![Apache](https://img.shields.io/badge/-Apache-274156?style=flat-square)
-![MariaDB](https://img.shields.io/badge/-MariaDB-274156?style=flat-square)
-![LAMP](https://img.shields.io/badge/-LAMP-274156?style=flat-square)
+<br/>
 
----
+<h3 align="left">Experience:</h3>
 
-### `>projects`
+| When | Role | PI / Supervisor |
+|---|---|---|
+| Aug 2026 – Present | **Project Associate-I**, THSTI Faridabad | Dr. Amit Kumar Yadav |
+| Dec 2025 – May 2026 | **Dissertation Research Intern**, NIAB Hyderabad | Dr. Shailesh Sharma |
+| Jul – Aug 2025 | **Summer Intern**, ICMR–RMRIMS Patna | Dr. Manas Ranjan Dikhit |
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<br/>
 
-**🧬 Multi-Species Genome Annotation & RNA-Seq Workflow**
-Reproducible pipeline for QC, reference prep, annotation & downstream analysis across species.
-`Python` `RNA-Seq` `Genome Annotation`
+<h3 align="left">Featured Projects:</h3>
 
-</td>
-<td width="50%" valign="top">
+- 🧬 [**Multi-Species Genome Annotation & RNA-Seq Workflow**](https://github.com/bioinfiobyanisha/multi-species-genome-annotation): week-by-week RNA-Seq workflow with QC, reference preparation, annotation and downstream analysis
+- 🦠 [**Homology Modeling of Amastin (*Leishmania donovani*)**](https://github.com/bioinfiobyanisha/summer-internship-protein-modeling-icmr-rmrims): structure and ligand-binding site prediction
+- 🐃 **Y-Chromosome Scaffold Identification in Buffalo Genomes**: Minimap2 based reference-guided mapping
 
-**🐃 Y-Chromosome Scaffold Identification (Buffalo Genomes)**
-Reference-guided mapping of Bangladesh & Jafarabadi buffalo scaffolds to the swamp buffalo Y chromosome.
-`Minimap2` `Comparative Genomics`
+<br/>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<h3 align="left">Achievements:</h3>
 
-**🧫 Phosphoproteomics & PTM Analysis (THSTI)**
-DIA-NN based protein quantification from LC-MS/MS data, with phosphorylation site prediction and motif analysis.
-`DIA-NN` `FragPipe` `Python` `Linux`
+- 🎤 Presented "Transcriptome Profiling Reveals lncRNA-Mediated Regulation of Host Immune Responses During Viral Infection" at an international conference (Jan 2026)
+- 📊 Data Analysis using Python workshop, Patna Women's College (Dec 2025)
 
-</td>
-<td width="50%" valign="top">
+<br>
 
-**🦠 Homology Modeling — Amastin Protein**
-Structure prediction & active-site analysis in *Leishmania donovani*.
-`SWISS-MODEL` `PyMOL`
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> :)</em>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" colspan="2">
+<br>
+<p align="right">Created with 🧡 by <a href="https://bioinfiobyanisha.github.io">Anisha Vishwakarma</a></p>
 
-**📄 Conference Paper — lncRNA & Host Immunity**
-"Transcriptome Profiling Reveals lncRNA-Mediated Regulation of Host Immune Responses During Viral Infection" — presented at the International Conference on *Translating Science into Solution* (Patna Women's College & Mount Carmel College, Jan 2026).
-`Transcriptomics` `RNA Biology`
-
-</td>
-</tr>
-</table>
-
----
-
-### `>education & certifications`
-
-- 🎓 **M.Sc. Biotechnology** — Patna Women's College, Patna University · CGPA 7.69/10 · Grade A+
-- 🎓 **B.Sc. (Hons.) Microbiology** — Kazi Nazrul University · CGPA 7.81/10
-- 🏅 **RNA Biology, Elite Certification** — NPTEL (SWAYAM), IIT Madras · 87% · Apr 2026
-- 📊 **Data Analysis using Python** — Workshop, Patna Women's College · Dec 2025
-
----
-
-### `>connect`
-
-📧 anishabioinformatics@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/anisha-v-bioinfo) · 🌐 [Portfolio](https://bioinfiobyanisha.github.io)
-
----
-
-<p align="center"><i>chr1:1–248,956,422 &nbsp;|&nbsp; assembly: career_v1 &nbsp;|&nbsp; build: 2026</i></p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E76F51,50:274156,100:2A9D8F&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E76F51,50:274156,100:2A9D8F&height=90&section=footer"/>
