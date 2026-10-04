@@ -37,11 +37,11 @@ M.Sc. Biotechnology — genomics, transcriptomics, proteomics, structural biolog
 
 ### `>experience`
 
-| When | Role | Focus |
-|---|---|---|
-| Aug 2026 – Present | **Project Associate-I**, THSTI Faridabad | DIA-NN proteomics, LC-MS/MS, phosphorylation PTM site prediction & motif analysis |
-| Dec 2025 – May 2026 | **Dissertation Research Intern**, NIAB Hyderabad | Genome annotation, comparative genomics, RNA-Seq of indigenous livestock genomes |
-| Jul – Aug 2025 | **Summer Intern**, ICMR–RMRIMS Patna | Homology modeling & active-site prediction of Amastin (*Leishmania donovani*) |
+| When | Role | PI / Supervisor | Focus |
+|---|---|---|---|
+| Aug 2026 – Present | **Project Associate-I**, THSTI Faridabad | Dr. Amit Kumar Yadav, Principal Scientist-II | DIA-NN proteomics, LC-MS/MS, phosphorylation PTM site prediction & motif analysis |
+| Dec 2025 – May 2026 | **Dissertation Research Intern**, NIAB Hyderabad | Dr. Shailesh Sharma, Scientist-E | Genome annotation, comparative genomics, RNA-Seq of indigenous livestock genomes |
+| Jul – Aug 2025 | **Summer Intern**, ICMR–RMRIMS Patna | Dr. Manas Ranjan Dikhit, Scientist-C | Homology modeling & active-site prediction of Amastin (*Leishmania donovani*) |
 
 ---
 
