@@ -32,6 +32,8 @@
 - 💬 Ask me about **RNA-Seq, genome annotation, comparative genomics, proteomics and homology modeling**
 
 - 📫 How to reach me **anishabioinformatics@gmail.com**
+**anisha@thsti.res.in**
+- 
 
 - 📍 Open to relocate (**Delhi NCR**)
 
